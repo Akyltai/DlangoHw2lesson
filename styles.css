@@ -1,0 +1,35 @@
+/* Basic Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.navbar {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.home-page {
+
+    text-align: center;
+}
+
+
+.login-page form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.login-page .form-group {
+    margin-bottom: 15px;
+}
+
+.login-page .btn-primary {
+    width: 100%; 
+}
